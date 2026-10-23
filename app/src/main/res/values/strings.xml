@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">KidTimer</string>
+    <string name="admin_description">Lets KidTimer lock the screen when watching time is over.</string>
+    <string name="admin_explanation">KidTimer only uses this to lock the screen when the timer runs out.</string>
+
+    <string name="title_setup">How long can they watch?</string>
+    <string name="title_running">Watching time left</string>
+    <string name="minutes_short">%d min</string>
+    <string name="decrease">−</string>
+    <string name="increase">+</string>
+    <string name="start_timer">Start timer</string>
+    <string name="warning_no_lock">Screen locking is not allowed yet. KidTimer will only stop the video and sound.</string>
+
+    <string name="time_left">left</string>
+    <string name="locks_at">Screen locks at %s</string>
+    <string name="add_minutes">+%d min</string>
+    <string name="go_home">Go to home screen</string>
+    <string name="running_hint">You can switch to YouTube or any other app now. The timer keeps running in the background.</string>
+    <string name="hold_to_cancel">Hold to cancel the timer</string>
+
+    <string name="setup_title">Setup</string>
+    <string name="req_lock_title">Lock the screen</string>
+    <string name="req_lock_desc">Needed to lock the phone when the time is up.</string>
+    <string name="req_notify_title">Show the countdown</string>
+    <string name="req_notify_desc">Shows the time left in the notification shade.</string>
+    <string name="req_exact_title">Exact timing</string>
+    <string name="req_exact_desc">Makes sure the timer fires on time, even in battery saver.</string>
+    <string name="req_pin_title">Screen-lock PIN (recommended)</string>
+    <string name="req_pin_desc">Without a PIN, pattern or password, your child can simply unlock the phone again.</string>
+    <string name="action_allow">Allow</string>
+    <string name="action_open_settings">Open settings</string>
+    <string name="status_done">✓ Done</string>
+    <string name="remove_admin">Remove lock permission (do this before uninstalling)</string>
+
+    <string name="muted_title">Media sound is muted</string>
+    <string name="muted_desc">A player kept playing after the pause, so KidTimer muted the media volume.</string>
+    <string name="restore_sound">Restore sound</string>
+
+    <string name="channel_countdown">Countdown</string>
+    <string name="channel_times_up">Time\'s up</string>
+    <string name="notif_countdown_title">Watching time</string>
+    <string name="notif_stopping">Time\'s up, stopping playback…</string>
+    <string name="notif_times_up_title">Time\'s up!</string>
+    <string name="notif_times_up_locked">Playback stopped and the screen was locked.</string>
+    <string name="notif_times_up_not_locked">Playback stopped. Allow screen locking in KidTimer to lock the phone too.</string>
+    <string name="notif_times_up_muted">Media sound was muted. Open KidTimer to restore it.</string>
+</resources>
